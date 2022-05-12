@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbrasseur/hello_world.git"
+    "url": "git+https://github.com/AwakenChance/test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cbrasseur/hello_world/issues"
+    "url": "https://github.com/AwakenChance/test/issues"
   },
-  "homepage": "https://github.com/cbrasseur/hello_world#readme"
+  "homepage": "https://github.com/AwakenChance/test#readme"
 }
